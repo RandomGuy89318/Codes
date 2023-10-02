@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background-image: url(dark.avif);
+    color: lightcyan;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
